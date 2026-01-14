@@ -1,0 +1,5 @@
+{
+  "name": "X-Threader: YouTube to Thread",
+  "description": "Convert any YouTube video into a high-engagement X (Twitter) thread using Gemini 3 Pro with Google Search grounding for deep content analysis.",
+  "requestFramePermissions": []
+}
